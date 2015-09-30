@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/cloudflare-api",
+    "name": "hoopyfrood/cloudflare-api",
     "description": "CloudFlare API Is A CloudFlare API Client For Laravel 5",
     "keywords": ["laravel", "framework", "cloudflare api", "cloudflare", "api", "CloudFlare API", "CloudFlare-API", "Laravel CloudFlare API", "Laravel-CloudFlare-API", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
